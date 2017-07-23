@@ -1,9 +1,11 @@
-package com.android.vt.transportation;
+package com.android.vt.transportation.search;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.android.vt.transportation.R;
+
+public class SearchActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
